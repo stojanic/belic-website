@@ -8,8 +8,24 @@ body {
 
 /*  Header */
 
+nav {
+    position: fixed;
+    width: 100%;
+    background: #000;
+}
+
 .belic-main-banner {
     display: block;
     /* Makes main banner fit the width of the page */
     width: 100%;
+}
+
+
+/* Logo */
+
+img.belic-logo {
+    display: block;
+    width: 80px;
+    border: solid 0px #000;
+    border-radius: 100%;
 }
