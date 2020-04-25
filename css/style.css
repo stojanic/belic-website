@@ -1,0 +1,15 @@
+/* General Styles */
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*  Header */
+
+.belic-main-banner {
+    display: block;
+    /* Makes main banner fit the width of the page */
+    width: 100%;
+}
